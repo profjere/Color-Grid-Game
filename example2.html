@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><html>
+    <title>Grid Layout Format</title>
+    <style>
+        #container{
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            grid-gap: 10px;
+            grid-auto-rows: minmax(100px, auto);
+        }
+        header{
+            grid-column: 1 / 6;
+            grid-row: 1/2;
+            background-color:#f00;
+        }
+        nav{
+            grid-column: 1 / 6;
+            grid-row: 2/3;
+            background-color:#0f0;
+        }
+        aside{
+            grid-column: 1/2;
+            grid-row: 3/6;
+            background-color:#ff0;
+        }
+        main{
+            grid-column: 2/6;
+            grid-row: 3/6;
+            background-color:#00f;
+        }
+        
+
+    </style>
+</head>
+<body>
+    <div id="container">
+        <header></header>
+        <nav></nav>
+        <aside></aside>
+        <main></main>
+     </div>
+</body>
+</html>

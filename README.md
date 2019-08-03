@@ -1,8 +1,7 @@
 # Color-Grid-Game
 Color Grid Game to teach CSS Grid Layout presented at AEJMC 2019
 
-Jeremy Sarachan 
-
+Jeremy Sarachan <br/>
 Associate Professor and Chair, Media and Communication<br/>
 St. John Fisher College
 

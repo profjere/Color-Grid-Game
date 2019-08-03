@@ -4,4 +4,4 @@ Jeremy Sarachan
 Associate Professor and Chair, Media and Communication
 St. John Fisher College
 
-Check out; http://codingpedagogy.net for more case studies related to teaching coding in media classes.
+Check out http://codingpedagogy.net for more case studies related to teaching coding in media classes.
